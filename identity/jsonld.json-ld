@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "MOOVFlightTicket": {
+        "@id": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/identity/-/raw/main/jsonld.json-ld",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/identity/-/raw/main/vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "name": {
+            "@id": "vocab:name",
+            "@type": "xsd:string"
+          },
+          "surname": {
+            "@id": "vocab:surname",
+            "@type": "xsd:string"
+          },
+          "gender": {
+            "@id": "vocab:gender",
+            "@type": "xsd:string"
+          },
+          "birthDate": {
+            "@id": "vocab:birthDate",
+            "@type": "xsd:integer"
+          },
+          "birthPlace": {
+            "@id": "vocab:birthPlace",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    }
+  ]
+}
