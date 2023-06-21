@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/identity/-/raw/main/jsonld.json-ld",
-      "jsonSchema": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/identity/-/raw/main/jsonschema.json"
+      "jsonLdContext": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/-/raw/main/identity/jsonld.json-ld",
+      "jsonSchema": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/-/raw/main/identity/jsonschema.json"
     }
   },
   "required": [

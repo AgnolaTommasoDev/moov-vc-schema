@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "MOOVFlightTicket": {
-        "@id": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/identity/-/raw/main/jsonld.json-ld",
+        "@id": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/-/raw/main/identity/jsonld.json-ld",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/identity/-/raw/main/vocab.md#",
+          "vocab": "https://gitlab-core.supsi.ch/dti-isin/giuliano.gremlich/blockchain/flymoov/vc-schema/-/raw/main/identity/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "name": {
             "@id": "vocab:name",
