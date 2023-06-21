@@ -5,7 +5,7 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "MOOVFlightTicket": {
+      "MOOVIdentity": {
         "@id": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/identity/jsonld.json-ld",
         "@context": {
           "@version": 1.1,
